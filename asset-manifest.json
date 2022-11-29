@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://miyazaki-test.github.io/csb-se9u14/static/js/main.1342df16.chunk.js",
+    "main.js.map": "https://miyazaki-test.github.io/csb-se9u14/static/js/main.1342df16.chunk.js.map",
+    "runtime-main.js": "https://miyazaki-test.github.io/csb-se9u14/static/js/runtime-main.709cc956.js",
+    "runtime-main.js.map": "https://miyazaki-test.github.io/csb-se9u14/static/js/runtime-main.709cc956.js.map",
+    "static/js/2.26c54f82.chunk.js": "https://miyazaki-test.github.io/csb-se9u14/static/js/2.26c54f82.chunk.js",
+    "static/js/2.26c54f82.chunk.js.map": "https://miyazaki-test.github.io/csb-se9u14/static/js/2.26c54f82.chunk.js.map",
+    "index.html": "https://miyazaki-test.github.io/csb-se9u14/index.html",
+    "static/js/2.26c54f82.chunk.js.LICENSE.txt": "https://miyazaki-test.github.io/csb-se9u14/static/js/2.26c54f82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.709cc956.js",
+    "static/js/2.26c54f82.chunk.js",
+    "static/js/main.1342df16.chunk.js"
+  ]
+}
